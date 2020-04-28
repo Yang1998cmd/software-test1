@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="145" started-at="2020-04-17T05:48:00Z" finished-at="2020-04-17T05:48:00Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="145" started-at="2020-04-17T05:48:00Z" finished-at="2020-04-17T05:48:00Z">
+      <class name="first_test.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:first_test.AppTest@2f7c7260]" name="shouldAnswerWithTrue" duration-ms="65" started-at="2020-04-17T13:48:00Z" finished-at="2020-04-17T13:48:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- first_test.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
